@@ -1,6 +1,5 @@
 
 export const MailBody = (fruits: string[]) => {
-  console.log("fruits", fruits);
   return (
     <>
       <ul>
